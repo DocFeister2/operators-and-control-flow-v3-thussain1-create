@@ -142,11 +142,11 @@ int main() {
     }
     else if (unit_type == "bag")
     {
-      item_cost = total_cost / (quantity*8);
+      item_cost = total_cost / (quantity * 8);
     }
     else if (unit_type == "bunch")
     {
-      item_cost = total_cost / (quantity*7);
+      item_cost = total_cost / (quantity * 7);
     }
   }
       
